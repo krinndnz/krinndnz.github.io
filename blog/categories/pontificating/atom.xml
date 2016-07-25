@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: pontificating | Useful Tigress Blog]]></title>
+  <link href="http://usefultigress.com/blog/categories/pontificating/atom.xml" rel="self"/>
+  <link href="http://usefultigress.com/"/>
+  <updated>2016-07-25T10:23:08-07:00</updated>
+  <id>http://usefultigress.com/</id>
+  <author>
+    <name><![CDATA[Krinn DNZ]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Escalating]]></title>
+    <link href="http://usefultigress.com/blog/2013/escalating/"/>
+    <updated>2013-03-22T12:32:00-07:00</updated>
+    <id>http://usefultigress.com/blog/2013/escalating</id>
+    <content type="html"><![CDATA[<p>I&rsquo;d like to use the Internet controversy of the week &mdash; particularly,
+<a href="http://www.shakesville.com/2013/03/adria-richards-does-belong-at-tech.html">Melissa McEwan&rsquo;s response</a> to it &mdash; to talk about something that&rsquo;s been on my mind for a while: escalation. I believe that the changes in our communications environment, particularly mass access to broadcast-style media and the possibility of things &ldquo;going viral,&rdquo; have made it very easy to escalate problems, and that people should invest more thought and caution into a decision to escalate, and should have better de-escalation toolkits.</p>
+
+<p>To vastly, vastly oversimplify, <a href="https://amandablumwords.wordpress.com/2013/03/21/3/">the incident that people are talking about</a> went like so: at PyCon, a developer conference, two dudes were cracking dick jokes, a woman sitting near them posted a picture of them to Twitter with a &ldquo;not cool, stop that&rdquo; message, an escalation spiral occurred, and all three of the people involved got fired. There&rsquo;s lots to read about this incident, but I&rsquo;m going to pick on a micro slice of it: the decision to publicly shame people instead of speaking to them &mdash; that is, the decision to escalate.</p>
+
+<p>Escalation is part of our communication/relationship/group-interaction toolkit; I will not say that it is a bad thing. What I will say is that it is a tool that&rsquo;s good for some things, but not for others, and that it is a tool that you should handle with the same caution that you give to, say, a power sander. It should never be a tool of first resort &mdash; but it should never be a tool that is denied to people.</p>
+
+<p>As a working definition of escalation, let&rsquo;s consider &ldquo;expanding the scope of a conflict.&rdquo; One easy example is <em>ad hominem</em> attacks: when the argument expands from being about proposals to also being about the personal characteristics of one or more participants. Another example is the fallacy with the charming name of <em>argumentum ad baculum</em> &mdash; the appeal to force. When someone demands that they prevail in an argument because of force rather than reason, they have escalated that argument. We can consider also the incident in which Rob Schneider <a href="http://en.wikipedia.org/wiki/Deuce_Bigalow:_European_Gigolo#Reception">responded to a negative review</a> of a movie that he starred in by taking out a full-page ad to respond denigrating the critic. When a disagreement may be public or private, and someone chooses to move into the public sphere, they have escalated that disagreement.</p>
+
+<p>The reason that escalation is a useful and problematic tool is that all of these things <em>change people&rsquo;s responses.</em> Expanding the scope of a conflict puts it in a different context, related to the new scope, and that context informs people&rsquo;s responses. This is emphatically not the same as &ldquo;puts people on their best behavior.&rdquo; Focusing on the case of escalating a private disagreement to the public sphere, it should be very clear that people act differently in public and in private. This is where we encounter the effects of changes in our communication environment: it&rsquo;s as easy as it ever was to escalate arguments by insults or by force, but it used to be much more difficult to make a dispute public. Someone fluent with the Internet&rsquo;s communications affordances can make something public very quickly indeed, and with the cooperation of others, it can be made very, very public.</p>
+
+<p>This is dangerous; <strong>escalation is not always a good idea.</strong> Escalation is usually a sign of &ldquo;the terms on which this conflict is being conducted, are unfavorable to me, so I&rsquo;m going to change them.&rdquo; Escalation occurs in a social context. Escalation is very easy now, and will not become less easy with the communications environment we&rsquo;ve chosen for ourselves, so we have to develop a &ldquo;social technology&rdquo; that tells people when it&rsquo;s appropriate to escalate. As the the PyCon incident illustrates, very often <a href="https://amandablumwords.wordpress.com/2013/03/21/3/">escalation results in everyone losing</a>, like a mutual-betrayal scenario in the <a href="http://en.wikipedia.org/wiki/Prisoner%27s_dilemma">Prisoner&rsquo;s Dilemma</a>.</p>
+
+<p>I am not going to attempt to give comprehensive advice about when to escalate: part of why escalation is a tricky technique is that it&rsquo;s quite difficult to decide when to escalate. What I am going to do, is to urge you to think carefully before escalating, and to never escalate just because it&rsquo;s easy to escalate. We are all prone to human failures of thought that are very likely to happen when something goes from public to private, and which things like Twitter give us plenty of room to indulge. Good Guys and Bad Guys will be assigned, regardless of whether the debate at hand admits the existence of clear-cut Good and Bad. People will dig in their heels when they are arguing in front of people whose goodwill they value: they will be less likely to back down. People not previously involved in the argument will <a href="http://www.patheos.com/blogs/slacktivist/2008/10/08/false-witnesses-2/">feel compelled to weigh in and establish that they are on the side of Right and Good and Truth</a>.</p>
+
+<p>One of the things that makes people prone to escalation, is a failure to identify the urgency of a situation. False urgency drives us all to make bad decisions; it is a specific flavor of fear. It can be overcome, but it takes effort, and one&rsquo;s personal life is generally better when it contains as few people as possible who are prone to identifying the non-urgent as urgent. People who feel safe, confident, and at ease, rarely escalate, which is part of why I think that those things should be afforded to everyone. On the flip side, people who feel threatened, insecure, and agitated, are prone to escalation.</p>
+
+<p>One thing that I think is a very clever use of escalation&rsquo;s virtues is the <a href="http://en.wikipedia.org/wiki/Holla_Back">Holla Back</a> inititative. It correctly identifies that a particular argument is unwinnable in its &ldquo;native&rdquo; context (i.e. &ldquo;street harassment is fine&rdquo; vs. &ldquo;don&rsquo;t fucking harass people&rdquo;) and shifts the context. It takes advantage of the difference between what people will do in anonymous crowds, and what they are willing to be held accountable for. It evades difficulties of escalation because there is rarely an existing social bond between harassers and victims in this context. It&rsquo;s a very deft use of escalation: it specifically says &ldquo;here is a situation where escalation is an appropriate response, and here are tools to make it easy and a social framing to make it acceptable.&rdquo; All of the components there are important: escalation isn&rsquo;t always an appropriate response, and independently, it&rsquo;s not always socially acceptable.</p>
+
+<p>If you read the <a href="http://butyoureagirl.com/14015/forking-and-dongle-jokes-dont-belong-at-tech-conferences/">first-person account</a> of Adria Richards, the woman who reported the PyCon incident, it seems like she&rsquo;s pretty clearly basing her response on the Holla Back model. It did not work out well. This illustrates a further difficulty of escalation: it invites escalation in return, and de-escalation is almost always more difficult than escalation. Escalation&rsquo;s expansion of scope requires an expansion of commitment &mdash; even if a participant feels like they have not become more committed, if they are still in the argument, they&rsquo;re committed to a bigger argument. In this case, the public nature of the argument drew in other participants, who escalated (e.g. by firing people) and comments from the peanut gallery (some awful, awful Reddit/Hacker News threads on the matter). It is a good illustration of the dangers of escalation.</p>
+
+<p>Escalation is only a tool. Like a hammer, it is good at some things, bad at others, and in the process of using it for either you may hurt yourself by using it inexpertly. In your own life, I urge you to reject false urgency, to never use escalation as a first resort, and to critically examine any conflict you&rsquo;re involved in for attempts to escalate it without your consent.</p>
+
+<hr />
+
+<p>Edit: I disavow the view that Adria Richards <em>should</em> have acted differently: the whole point of this spiel is that escalation is hard. If I said that or seemed to say that, I was wrong, I wanted to address escalation as a phenomenon, not her in particular. About her case in particular, <a href="http://www.forbes.com/sites/deannazandt/2013/03/22/why-asking-what-adria-richards-could-have-done-differently-is-the-wrong-question/">Deanna Zandt</a> has a great writeup with links to other insightful pieces.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Target Of Realism]]></title>
+    <link href="http://usefultigress.com/blog/2013/the-target-of-realism/"/>
+    <updated>2013-03-16T21:42:00-07:00</updated>
+    <id>http://usefultigress.com/blog/2013/the-target-of-realism</id>
+    <content type="html"><![CDATA[<p>The furry subculture has a troubled relationship with &ldquo;realism;&rdquo; I want to introduce a distinction
+that helped me resolve the question in a satisfying way. When someone says &ldquo;realistic,&rdquo; they almost
+always are assuming that realism is just one thing. It is not: realism assumes that there is a
+reality and a portrayal and that the portrayal is more or less faithful to the reality. The
+problems with this approach crop up quickly when you&rsquo;re talking about realism in the context of
+fiction or speculation or <em>gedankenexperiments</em>. Is Maxwell&rsquo;s Demon realistic? Are the geopolitics
+of Middle-Earth realistic? Is my inverse-square-law-violating furry avatar realistic? Attempts to
+answer these questions get messy quickly.</p>
+
+<p>What I want to introduce is the idea of realism as a direction. You are realistic <em>to</em> something,
+not just &ldquo;realistic&rdquo; in general. Most of the time, &ldquo;realistic&rdquo; means that the thing whose realism
+we are evaluating, is displaying more or less fidelty to our everyday lives and the world as we
+experience it through fragile bodies and imperfect senses. So far, so good. But when we inhabit
+furry avatars and personas and masks, that isn&rsquo;t and can&rsquo;t be what it means. We are being realistic
+to something else.</p>
+
+<p>People are being realistic <strong>to their own desires.</strong> In the case of the furry subculture&rsquo;s
+collective sex life, that&rsquo;s realistic to their erotic desires. I argue that if you use this as your
+lens of &ldquo;realism,&rdquo; you can spare yourself a great deal of <em>tsuris</em>. It is generally not necessary
+to decide whether one dragon is more realistic than another and in the cases where it is, you
+should be making the determination with a skill that everyone should be practicing: the ability to
+detect sincerity.</p>
+
+<p>If you want to see this kind of realism in a different context, I recommend reading
+<a href="https://www.amazon.com/gp/product/1594650640/?tag=usefultigress-20">The Metabarons</a> and
+considering how it is realistic to its creator&rsquo;s (batshit insane and very enjoyable) vision. It is
+a great example of the sci-fi writers' dictum that you get one free break from reality-as-we-know
+it and everything else must follow.</p>
+
+<p>It won&rsquo;t make you happy to judge creative work by its fidelity to everyday life you experience
+walking around when the creation of it gave no attention to that fidelity. It may say things about
+everyday life that you want to engage with, but resist the urge to say that its relationship to
+everyday life is the only thing that it can be realistic to. There are plenty of flaws that a thing
+may have while still being faithful to itself (self-indulgent, dopey, insipid &mdash; it is all too
+easy to be these things too while still being realistic to one&rsquo;s desires).</p>
+
+<p>You should especially not fall into that realism-trap if you&rsquo;re actively participating in such
+creative works&mdash;that is to say, you&rsquo;re publishing them on FurAffinity or Weasyl or participating
+in collective creation on Tapestries, Shangri-La, and such. In those areas, you should definitely
+prioritize being faithful to people&rsquo;s desires and fantasies, because that&rsquo;s the <em>raison d'être</em> of
+those places: being realistic to people&rsquo;s erotic desires. The trap is a tempting one: resist it.</p>
+]]></content>
+  </entry>
+  
+</feed>

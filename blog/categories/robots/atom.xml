@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: robots | Useful Tigress Blog]]></title>
+  <link href="http://usefultigress.com/blog/categories/robots/atom.xml" rel="self"/>
+  <link href="http://usefultigress.com/"/>
+  <updated>2016-07-25T10:23:08-07:00</updated>
+  <id>http://usefultigress.com/</id>
+  <author>
+    <name><![CDATA[Krinn DNZ]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[EDIRD: Why Do Birds Suddenly Appear]]></title>
+    <link href="http://usefultigress.com/blog/2013/edird-why-do-birds-suddenly-appear/"/>
+    <updated>2013-06-12T09:43:00-07:00</updated>
+    <id>http://usefultigress.com/blog/2013/edird-why-do-birds-suddenly-appear</id>
+    <content type="html"><![CDATA[<p><iframe width="560" height="420"
+        allowfullscreen="allowfullscreen"
+        src="http://www.youtube.com/embed/re-6eOhrejE?color=white&theme=light"> </iframe></p>
+
+<p>Speaking of cinema: <em>Mirrormask</em> was quite a thing. For one thing, giving Dave McKean millions of
+dollars to make a movie results in visual deliciousness. For another thing, looking back, I see
+this prefiguring a bunch of my friends' kinks. Hello clockwork robot mind-control scene with a hint
+of transformation!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Electronica Will Eat Itself]]></title>
+    <link href="http://usefultigress.com/blog/2013/electronica-will-eat-itself/"/>
+    <updated>2013-06-08T17:06:00-07:00</updated>
+    <id>http://usefultigress.com/blog/2013/electronica-will-eat-itself</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/52766487 "></iframe></div></p>
+
+<p>This is a nifty video of a musical robot&mdash;but it&rsquo;s also a great example of how all culture builds
+on what came before, how all culture is to some extent remix culture. It&rsquo;s a robot that physically
+plays a set of instruments that correspond to the
+<a href="http://en.wikipedia.org/wiki/Roland_TR-808">TR-808</a>, which itself was a way of synthetically
+producing the sounds of that set of instruments. Always we are consuming what came before;
+sometimes we are making it our own and new, and ideally we are giving it freely to a future that
+needs it just as badly as we need our own past.</p>
+
+<p>(<a href="http://mischeathen.com/?p=18420">via</a>)</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: enhance | Useful Tigress Blog]]></title>
+  <link href="http://usefultigress.com/blog/categories/enhance/atom.xml" rel="self"/>
+  <link href="http://usefultigress.com/"/>
+  <updated>2016-07-25T10:23:08-07:00</updated>
+  <id>http://usefultigress.com/</id>
+  <author>
+    <name><![CDATA[Krinn DNZ]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[EDIRD: Let's Enhance]]></title>
+    <link href="http://usefultigress.com/blog/2013/edird-lets-enhance/"/>
+    <updated>2013-06-06T13:13:00-07:00</updated>
+    <id>http://usefultigress.com/blog/2013/edird-lets-enhance</id>
+    <content type="html"><![CDATA[<p><iframe width="560" height="420"
+        allowfullscreen="allowfullscreen"
+        src="http://www.youtube.com/embed/Vxq9yj2pVWk?color=white&theme=light"> </iframe></p>
+
+<p>I spend a lot of time tinkering with computers, it&rsquo;s one of the big themes in my life. I have a
+pretty well-grounded idea of what computers are capable of and what they&rsquo;re not&mdash;which is why this
+compilation of people treating computers as magic entertains me so much. Of course as a writer I
+also appreciate that sometimes you just need magic to get the characters from point A to point B,
+so I don&rsquo;t hold it against them. Also, props to the author for assembling these clips with
+expertise and transformative execution: the new work speaks in a way that the components
+didn&rsquo;t. Well done.</p>
+
+<p>Every day is repost day, all culture is on some level remix culture.</p>
+]]></content>
+  </entry>
+  
+</feed>

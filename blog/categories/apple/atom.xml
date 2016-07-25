@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: apple | Useful Tigress Blog]]></title>
+  <link href="http://usefultigress.com/blog/categories/apple/atom.xml" rel="self"/>
+  <link href="http://usefultigress.com/"/>
+  <updated>2016-07-25T10:23:08-07:00</updated>
+  <id>http://usefultigress.com/</id>
+  <author>
+    <name><![CDATA[Krinn DNZ]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Nobody Gives A Shit About Freedom Zero]]></title>
+    <link href="http://usefultigress.com/blog/2013/nobody-gives-a-shit-about-freedom-zero/"/>
+    <updated>2013-10-19T09:18:00-07:00</updated>
+    <id>http://usefultigress.com/blog/2013/nobody-gives-a-shit-about-freedom-zero</id>
+    <content type="html"><![CDATA[<p>So I went back in time a little today and noted Mark &ldquo;410 Gone&rdquo; Pilgrim&rsquo;s 2008 post,
+&ldquo;<a href="http://web.archive.org/web/20100608015359/http://diveintomark.org/archives/2008/01/17/of-canaries-and-coal-mines">Of Canaries And Coal Mines</a>.&rdquo;</p>
+
+<blockquote><p>So after 18 months, I think we can safely say that no, Cory [Doctorow] and I were not &ldquo;canaries
+in the coal mine.&rdquo; There are not hordes of fed-up consumers rejecting Apple&rsquo;s vision of
+cryptographic lock-in. There are not mass graves where people ceremoniously dump their crippled,
+non-general-purpose computing devices. Outside of Planet Debian and my own personal echo chamber,
+nobody gives a shit about Freedom 0.</p></blockquote>
+
+<p>Since then, things have only gone further in the direction that Pilgrim and Doctorow despaired
+about. Apple has sold a preposterously large number of iPhones and iPads, large enough that it&rsquo;s
+actually a bit difficult to get a grasp on how much the game has changed. I&rsquo;m just gonna quote
+Marco Arment, since <a href="http://www.marco.org/2010/08/19/a-smartphone-retrospective">he absolutely called it</a>:</p>
+
+<blockquote><p>Smartphones were an established consumer-electronics market with devices that people thought were
+pretty cool, but often frustrating and with serious shortcomings and design flaws. &hellip; Other
+manufacturers had neglected touchscreens for years, but Apple figured out how to do a touchscreen
+well, and did.  Fans of the former types of smartphones and much of the tech press declared this
+smartphone useless or not capable enough because of its lack of a keyboard, its non-removable
+battery, its lack of expansion slots or ports, and other hardware features in which Apple chose
+differently from what most other manufacturers were doing.  That ended up not mattering. Now,
+most high-end smartphones look like [the iPhone]. &hellip; [Criticism of the iPad] ended up not
+mattering. And now, other manufacturers are scrambling to build tablet products as quickly as
+possible.  How do you think the subcompact, inexpensive computer category will look in three
+years?</p></blockquote>
+
+<p>Now, I&rsquo;m willing to take some cheap shots at this: it&rsquo;s what I do, I snicker a little cruelly when
+I imagine Cory Doctorow <a href="http://web.archive.org/web/20110716072627/http://www.adcouncil.org/default.aspx?id=132">in the role of Iron Eyes Cody</a>, a single tear rolling down
+his cheek as he realizes that there are untold billions of people who don&rsquo;t care about &ldquo;Freedom
+Zero.&rdquo; His tear is the tear of the modernist project, the realization that whoops, Western European
+affluent-white-dude values are not in fact universal, and there may have to be some difficult
+negotiation in the future to figure out (a) what values people advocate (b) what values they
+actually live by and &copy; whether people can get along within the self-imposed constraints of (a)
+and (b).</p>
+
+<p>I can&rsquo;t get genuinely angry at Doctorow, though. I&rsquo;m pretty bummed out when I think that billions
+of people don&rsquo;t share <em>my</em> values, because I&rsquo;m as egotistical as anyone else and still have a nice
+little candle in my heart of &ldquo;If <em>I</em> was running the show you&rsquo;d see some changes around here pretty
+darn quick!&rdquo; At worst I think he&rsquo;s kinda naïve. It&rsquo;s borderline tautological to say that people
+outside the engineer/hacker culture and professions do not share its ideological concerns. If you
+walked up to an attorney cold and asked her what &ldquo;Freedom Zero&rdquo; was, you would probably get an
+answer that has nothing to do with &ldquo;screws, not glue.&rdquo; The phrase might register as a complete
+non-sequitur to a scuba dive instructor, a barista, a social worker, an undergraduate working the
+register at a gas station, a costumed worker at Disneyland.</p>
+
+<p>I acknowledge the counterargument of &ldquo;if people were more informed about the issue, they&rsquo;d care,&rdquo;
+but you have to note that that&rsquo;s an argument you can make about <em>anything</em> and it&rsquo;s perilously
+close to the fallacy of &ldquo;if people were better informed they&rsquo;d agree with me!&rdquo; So I think that it&rsquo;s
+to be avoided. What I think is that people care about themselves first&mdash;thinking as our
+rational-logical selves, paying rigorous attention to our professed ideals and to how our actions
+fit them or fail to, is difficult and we&rsquo;re usually half-assing it. Yes, all of us, because we&rsquo;re
+all fallible people prone to thinking more about what we want than whether getting it is worthwhile
+or having it will actually make us as happy as we think.</p>
+
+<p>One of my favorite jabs at this human tendency comes from the San Francisco stand-up comic Will
+Durst, who <a href="https://itunes.apple.com/us/album/id260036485?partnerId=30&amp;siteID=k*tkOlz87uA">had a great riff on it in the early Bush years</a>:</p>
+
+<blockquote><p>Don&rsquo;t get me wrong, man. That 300 bucks last August&mdash;that rebate check came in handy. I live
+here in town, I paid off two parking tickets with it. But we had this windfall, we could have
+done <em>anything</em> with it. We could have paid for every hot lunch program in America through the
+year 2054. We could have put in a down payment on prescription drugs, which they talked about
+last November and now we haven&rsquo;t heard Word One of. We could have done a lot.</p>
+
+<p>&ldquo;Oh no, no, you can&rsquo;t do that. Uh-uh. No.&rdquo; &ldquo;Why?&rdquo; &ldquo;Well, the American People <em>want</em> tax cuts.&rdquo;</p>
+
+<p>Well <strong>duh!</strong> The American People also want drive-through nickel beer night! The American People
+want to lose weight by eating ice cream. The American People would chew off their own <em>foot</em> if
+Oprah told them there was liquid gold in their ankle veins! The American People love the Home
+Shopping Network because it&rsquo;s commercial-free.</p></blockquote>
+
+<p>Humanity has a long and illustrious track record of wanting things that aren&rsquo;t particularly good
+for us. I&rsquo;m not saying that Freedom Zero is one of those things. I&rsquo;m actually with Doctorow in that
+I think that more people tinkering, exploring, and creating, is inherently a Good Thing. I just
+think that Freedom Zero is a bit too narrowly defined, and thus Doctorow tends to undervalue good
+things produced by people who don&rsquo;t care as much about freedom-to-tinker as he does. At this point
+I think it&rsquo;s very safe to say that the &ldquo;iPads are for consumption&rdquo; canard is dead, but it&rsquo;s not
+just that. The deal with iPhones and the Apple ecosystem in general, is that they&rsquo;re a
+trade-off. It&rsquo;s fine for Doctorow to reject that trade-off for himself, but I think that he&rsquo;s in
+error with his rationale for encouraging others to reject it; I think he&rsquo;s projecting his values
+onto them. That&rsquo;s an error. If you go and look at what people are doing with their devices, you&rsquo;ll
+find that they&rsquo;re doing things that are valuable to <em>them,</em> which is unrelated to what&rsquo;s valuable
+to Cory Doctorow.</p>
+
+<p>If you want to persuade others, to talk them into changing their behavior, you need to figure out
+what&rsquo;s important to them and avoid assuming that what matters to you matters to them. That&rsquo;s part
+of what makes persuasion hard&mdash;that and the massive disconnect between what we profess to want and
+what we are actually happier to have. That&rsquo;s my vote for what people <em>should</em> care about: being
+clear on our own desires.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Well, There Goes *That* Plan]]></title>
+    <link href="http://usefultigress.com/blog/2013/well-there-goes-that-plan/"/>
+    <updated>2013-07-03T13:35:00-07:00</updated>
+    <id>http://usefultigress.com/blog/2013/well-there-goes-that-plan</id>
+    <content type="html"><![CDATA[<p>Found in the <a href="http://www.apple.com/legal/internet-services/itunes/appstore/dev/stdeula/">iTunes End User License Agreement</a>:</p>
+
+<blockquote><p>You also agree that you will not use these products for any purposes prohibited by United States
+law, including, without limitation, the development, design, manufacture or production of
+nuclear, missiles, or chemical or biological weapons.</p></blockquote>
+
+<p>Total spoilsports. How am I supposed to work on my mad-science supervillainess world domination
+plans without my Genius mix?</p>
+
+<p>(<a href="http://www.loopinsight.com/2013/06/28/itunes-license-agreement-stipulates-you-cant-make-nuclear-weapons/">via</a>)</p>
+]]></content>
+  </entry>
+  
+</feed>

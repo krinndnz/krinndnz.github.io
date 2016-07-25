@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://usefultigress.com/sitemap.xml

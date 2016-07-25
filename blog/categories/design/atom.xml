@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: design | Useful Tigress Blog]]></title>
+  <link href="http://usefultigress.com/blog/categories/design/atom.xml" rel="self"/>
+  <link href="http://usefultigress.com/"/>
+  <updated>2016-07-25T10:23:08-07:00</updated>
+  <id>http://usefultigress.com/</id>
+  <author>
+    <name><![CDATA[Krinn DNZ]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Last Big Secret]]></title>
+    <link href="http://usefultigress.com/blog/2013/the-last-big-secret/"/>
+    <updated>2013-06-29T13:47:00-07:00</updated>
+    <id>http://usefultigress.com/blog/2013/the-last-big-secret</id>
+    <content type="html"><![CDATA[<p><em>Shadow of the Colossus</em> is one of the great achievements of videogames. I tend towards comparing
+it to <em>Super Metroid,</em> although one could go other directions. Both games cultivate an atmosphere
+of solitude and the uncanny, focusing on a solo protagonist in an alien place. They&rsquo;re not only
+masterfully executed, great fun as games, but also are achievers of a high ambition in games: they
+expand the player&rsquo;s sense of the possible. The team who built <em>Ico</em> expanded and refined their
+ideas, and as a result, <em>Shadow</em> was a truly great game, expanding a mass audience&rsquo;s sense of what
+the medium of videogames was capable of.</p>
+
+<p>All of this is on my mind because I recently encountered a Eurogamer article,
+<a href="http://www.eurogamer.net/articles/2013-05-02-the-quest-for-shadow-of-the-colossuss-last-big-secret">&ldquo;The Quest for Shadow of the Colossus' Last Big Secret,&rdquo;</a> pointing out that a game
+pushing ten years old is still drawing a small crowd of searchers determined to find everything
+that can be found in the game. I&rsquo;m pleasantly reminded of how the executive-meddling-crippled
+<em>KOTOR II</em> was the beneficiary of a fan effort to restore cut content and fix outstanding bugs. The
+story of the searchers here is a compelling one, and I recommend it to you along with other
+<a href="http://www.glitterberri.com/shadow-of-the-colossus/">fan-made</a> <a href="http://lparchive.org/Shadow-of-the-Colossus/">amplifications</a> of the game.</p>
+
+<p>If you&rsquo;re feeling particularly nostalgic, you may wish to watch this
+<a href="http://www.youtube.com/watch?v=dbUsuIr28SA&amp;list=PL894C9468F2597100">playthrough of the HD version</a> of the game as you read:</p>
+
+<p><iframe width="560" height="420"
+        allowfullscreen="allowfullscreen"
+        src="http://www.youtube.com/embed/dbUsuIr28SA?list=PL894C9468F2597100?color=white&theme=light"> </iframe></p>
+]]></content>
+  </entry>
+  
+</feed>

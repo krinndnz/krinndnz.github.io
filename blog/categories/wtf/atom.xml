@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: wtf | Useful Tigress Blog]]></title>
+  <link href="http://usefultigress.com/blog/categories/wtf/atom.xml" rel="self"/>
+  <link href="http://usefultigress.com/"/>
+  <updated>2016-07-25T10:23:08-07:00</updated>
+  <id>http://usefultigress.com/</id>
+  <author>
+    <name><![CDATA[Krinn DNZ]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Paul From Jersey]]></title>
+    <link href="http://usefultigress.com/blog/2013/paul-from-jersey/"/>
+    <updated>2013-05-29T13:50:00-07:00</updated>
+    <id>http://usefultigress.com/blog/2013/paul-from-jersey</id>
+    <content type="html"><![CDATA[<p>Matt Fraction has good stories:</p>
+
+<blockquote><p>This was an art school. And amongst the rest of us, Paul was the freak.</p>
+
+<p>Paul came to art school with a strategy: <strong>fuck all this.</strong> It was so preconceived, so
+controlled, and so well-defined he could have turned his whole senior year into a performance
+piece. He wanted to get laid, get drunk, and fuck around. Our school provided him with a unique
+opportunity to do it.</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>

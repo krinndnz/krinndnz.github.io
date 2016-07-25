@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: aphorisms | Useful Tigress Blog]]></title>
+  <link href="http://usefultigress.com/blog/categories/aphorisms/atom.xml" rel="self"/>
+  <link href="http://usefultigress.com/"/>
+  <updated>2016-07-25T10:23:08-07:00</updated>
+  <id>http://usefultigress.com/</id>
+  <author>
+    <name><![CDATA[Krinn DNZ]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[On Saving Time]]></title>
+    <link href="http://usefultigress.com/blog/2013/on-saving-time/"/>
+    <updated>2013-06-02T14:12:00-07:00</updated>
+    <id>http://usefultigress.com/blog/2013/on-saving-time</id>
+    <content type="html"><![CDATA[<blockquote><p>You know what drives me crazy? It’s all these people talking about how great
+technology is, and how it saves all this time. But, what good is saved time,
+if nobody uses it? If it just turns into more busy work. You never hear
+somebody say, ‘With the time I’ve saved by using my word processor, I’m gonna
+go to a Zen monastery and hang out.’ I mean, you never hear that.</p>
+
+<p>&ndash;Jesse (Ethan Hawke) in <a href="https://www.amazon.com/gp/product/B00002E224/?tag=usefultigress-20">Before Sunrise</a></p></blockquote>
+
+<p><a href="http://parislemon.com/post/51983940651/you-know-what-drives-me-crazy-its-all-these">via MG Siegler</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

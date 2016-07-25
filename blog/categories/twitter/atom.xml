@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: twitter | Useful Tigress Blog]]></title>
+  <link href="http://usefultigress.com/blog/categories/twitter/atom.xml" rel="self"/>
+  <link href="http://usefultigress.com/"/>
+  <updated>2016-07-25T10:23:08-07:00</updated>
+  <id>http://usefultigress.com/</id>
+  <author>
+    <name><![CDATA[Krinn DNZ]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[In Which I Am Exceedingly Surly About Twitter]]></title>
+    <link href="http://usefultigress.com/blog/2013/in-which-i-am-exceedingly-surly/"/>
+    <updated>2013-06-02T15:45:00-07:00</updated>
+    <id>http://usefultigress.com/blog/2013/in-which-i-am-exceedingly-surly</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been taking a break from Twitter and reflecting on why I needed to take a break from
+Twitter. The short version is that dealing with other people is a fundamentally difficult problem
+and I&rsquo;m not sure that Twitter is helping. I have hopes for Twitter, but I have several very
+critical things to say about it too (and when I say them, I will be doing that thing where I argue
+in favor of my position and just trust that there are valid points that people could make against
+my position and not volunteer to make those points for them&mdash;it&rsquo;s <em>my</em> rant, dangit).</p>
+
+<h3>What is Twitter good at?</h3>
+
+<p>Much of what is good about Twitter is what&rsquo;s good about email: it makes practical a wider spectrum
+of expression than before. At the point where email and Twitter came along, we already had lots of
+ways to express ourselves - good ones, too! The written letter, the telegram, the telephone, the
+fax, the postcard, the magazine, the newspaper article, the letter to the editor. These were all
+good ways to express oneself: however, they were not, collectively, good at expressing all of the
+things that a person might want to express. Change over time made some of them less good (farewell
+telegrams) and overloaded some (the fax machine changed how people dealt with letters).</p>
+
+<p>What email and Twitter have in common is that they made it <em>practical</em> to express things that were
+before possible to express, but impractical. They are communications innovations not because they
+do something better that older forms did well, but rather, because they do something well that
+older forms did poorly. This is why Twitter is supremely unlikely to replace IRC: they are good at
+different things. Conversely, this is why email often replaces a letter that is written on paper,
+sealed in an envelope, marked with a stamp, and put in the mailbox: most of what you want a letter
+to do, an email does better. Not all, but most.</p>
+
+<p>So I don&rsquo;t harsh on Twitter for brevity and incompleteness: it&rsquo;s an ephemeral medium, by design,
+and it&rsquo;s to the credit of Williams, Stone, and their team that they cultivated technical
+limitations into an interesting way to express oneself. &ldquo;Twitter is not good at sustained and
+complex conversation&rdquo; is merely facts on the ground: this is part of why
+<a href="http://branch.com">Branch</a> and <a href="http://medium.com">Medium</a> exist.  On the other hand, I&rsquo;m
+perfectly willing to kvetch at individual Twitter users for using the service for things that it is
+not good at and never will be good at&mdash;more on that later.</p>
+
+<p>The question of <em>what is Twitter for?</em> is perpetually up for debate; I won&rsquo;t attempt it here. What
+I can authoritatively answer, though, is the question of <em>what do I want Twitter for?</em> I want a
+stream of answers to the question &ldquo;what&rsquo;s interesting lately?&rdquo; (with a conscious caveat that people
+of course provide the same variety of answers to that as they do in offline life), a river of
+idea-seeds, and a conversation at the speed of a fencing match. Twitter should be a great place to
+<em>start</em> things: to find or express a new idea, to ask a question and get concise answers, to point
+people towards something that matters to you.</p>
+
+<p>Often, Twitter falls short of this. This is not necessarily Twitter&rsquo;s fault, but it&rsquo;s certainly a
+good enough reason to leave.</p>
+
+<h3>Noise without signal</h3>
+
+<p>Too often, Twitter is like a noisy party: even if it&rsquo;s full of people you like, you can&rsquo;t be paying
+attention to everyone at once, and a high enough population means that it becomes difficult to
+actually talk even with people who are trying to talk to you in return. That&rsquo;s an annoyingly easy
+situation to get into even when you&rsquo;re trying to avoid it. By contrast, Twitter turned into the
+flying, destructive, multi-generational party from <em>Life, the Universe, and Everything</em> some time
+in 2010 and has not improved since (including the part about <em>&ldquo;one of the problems with a party
+that never stops is that all the things that only seem like a good idea at parties continue to seem
+like good ideas&rdquo;</em>).</p>
+
+<p>The noisy-party thing is quite annoying to me: I&rsquo;m picky to start with, I can&rsquo;t stand following
+more than about 100 people. My Twitter stream stops being useful and enjoyable when its population
+gets significantly bigger than my
+<a href="http://en.wikipedia.org/wiki/Dunbar%27s_number">monkeysphere</a>. It&rsquo;s similar to my thoughts on how
+many physical objects you should own: if you&rsquo;re ignoring an object in your home or a voice you&rsquo;re
+following on Twitter, why is it there in the first place? You are a human with a finite attention
+span that you don&rsquo;t actually have a choice about respecting. If you&rsquo;re following 1,000 people on
+Twitter, it is almost certain that you&rsquo;re not really listening to what most of those people have to
+say&mdash;which means in my opinion that you should just not be following them.</p>
+
+<h3>People are used by spammers</h3>
+
+<p>On top of that, people don&rsquo;t always speak for themselves, but regularly have their voices
+appropriated (consensually or not as the case may be) by the most tediously screeching and
+incoherent kind of commercial and political interests. Reading Twitter is less worth my time when
+people push every gas-station fill-up, every FourSquare check-in, and every whale-shaving petition
+they sign, to their Twitter stream&mdash;part of why
+<a href="https://itunes.apple.com/us/app/id428851691?partnerId=30&amp;siteID=k*tkOlz87uA">Tweetbot</a> and
+<a href="http://www.floodgap.com/software/ttytter/">TTYtter</a> were my favorite clients was that they had
+robust filtering abilities to silence such bullshit.</p>
+
+<p>That&rsquo;s just the things that people click on themselves, mind you: there&rsquo;s also a thriving community
+of accounts that are spammers from top to bottom, ways to get people to tweet on your behalf
+without noticing beforehand, and attempts to hijack Twitter accounts for the purpose of posting
+malicious links of one kind or another. As busy as that community is, fortunately it is not very
+successful. So the main problem here is less that malicious actors may jump in, than it is that
+people choose to permit the forces of idiocy to speak on their half. Ugh.</p>
+
+<h3>Private accounts are bullshit</h3>
+
+<p>This annoyance is multiplied when people make it harder to listen to them speaking in the first
+place by the expedient of private accounts&mdash;which I consider to be a wart on Twitter&rsquo;s
+design. There are a small number of good reasons to have a locked Twitter account: if you have to
+ask, yours probably doesn&rsquo;t make the grade. So I&rsquo;m talking about the majority of locked accounts
+here, not 100% of them. That said: locked accounts degrade the Twitter experience and show poor
+judgment, and I wouldn&rsquo;t be the least bit sad to see Twitter disable them entirely.</p>
+
+<p>One of the big virtues of Twitter is serendipity: the property that things you say might be picked
+up by unknown others, that you may have unplanned interactions, that someone may say &ldquo;ahah, but
+what about <em>this</em> related piece of information?&rdquo; and you&rsquo;ll have something new and interesting in
+your day. Private accounts are free-riders there, partaking of the benefits of that community
+dynamic without giving back.</p>
+
+<p>Locked accounts also make the Twitter experience worse by giving the middle finger to the normal
+&ldquo;follow or not?&rdquo; decision. Normally on Twitter, you decide whether or not to follow someone by
+looking at what they&rsquo;ve said and asking, &ldquo;do I want to see that in my stream of new messages?&rdquo; But
+private accounts are like &ldquo;nope, trust me or fuck off.&rdquo; Your plan for evaluating whether a private
+account is worth following rather involves being on the other side of this airtight
+hatchway. That&rsquo;s bad, that breaks the virtuous cycle of &ldquo;if you want people to follow you, post
+things worth reading.&rdquo;</p>
+
+<p>Creating a private account also usually shows poor judgment: one of the normal failure modes of
+private-account-holders is thinking that Twitter is a substitute for LiveJournal. In the
+LiveJournal paradigm, it&rsquo;s totally reasonable to have an account where your statements are private
+by default and once in a while you say something to the world at large, or to have your primary
+account and your &ldquo;after dark&rdquo; account. That works somewhat on LiveJournal, but it&rsquo;s a ruinously bad
+fit for Twitter.</p>
+
+<p>On LJ, your replies to other people&rsquo;s statements (comments on their entries) are generally not
+private, and you can selectively step out of private mode to say something to the
+world. LiveJournal provides an array of technical tools that you can use to modulate your
+expression between public and private. Twitter does not give you such tools: if you reply to
+someone&rsquo;s tweet, they can&rsquo;t see you unless they&rsquo;re already on the other side of the airtight
+hatchway, and you can&rsquo;t say &ldquo;this tweet will be public, but just this one time.&rdquo; So you&rsquo;re not a
+full participant the way you are on LiveJournal.</p>
+
+<p>The other way that private accounts show poor judgment is summed up in &ldquo;After Dark&rdquo; accounts. I
+think that those are almost always a bad idea: maintaining multiple Twitter accounts is a major
+headache, but more importantly, <em>Twitter is a broadcast medium.</em> You are not excused from
+discretion! Even if Twitter is &ldquo;oh that&rsquo;s where my friends are&rdquo; to you, there are things that it&rsquo;s
+a bad idea to say in public&mdash;and Twitter is public, like the Web in general. Communicating
+discreetly with your friends about your kinks is definitely not one of the things that Twitter is
+good at. I also think that if you are the kind of person who is comfortable talking about your sex
+life (or your mental health, or similarly mainstream-culture-proscribed subjects) in your public
+voice, then people who can&rsquo;t handle hearing about that from time to time should not be following
+you. Your voice should be <em>yours</em> first, when it&rsquo;s a personal voice like Twitter: it is fine and
+necessary to modulate one&rsquo;s professional voice according to audience demands, but a personal voice
+should be <em>personal</em> and heartfelt and true-to-self above other things.</p>
+
+<h3>False urgency and false equivalency</h3>
+
+<p>Then there&rsquo;s a somewhat more abstract concern: the &ldquo;flattening&rdquo; of expression. Because of the size
+limit on tweets and the way that Twitter strives for simplicity of presentation, all tweets have
+roughly equal visual weight. Unfortunately, this means that drastically different content looks and
+reads the same. It bothers me that &ldquo;my hopes for a good Transformers movie died,&rdquo; &ldquo;my dog died at
+the age of 20,&rdquo; and &ldquo;my mother died at the age of 48&rdquo; all have the same look. It&rsquo;s extraordinarily
+challenging to modulate this with regards to user-generated content, but I think that some level of
+it is necessary because inviting us to consider every statement on Twitter to be equivalent in
+importance, is not a good thing.</p>
+
+<p>This is worse when it comes to arguments, because &ldquo;I don&rsquo;t think the evidence supports that&rdquo; looks
+like &ldquo;you smell like a goat&rsquo;s asshole&rdquo; in your timeline. Or more germanely: the sponsored tweet
+looks very much like your friend&rsquo;s tweet about how the President is a godless Commie Muslim bent on
+destroying the gold standard, which in turn looks very much like your other friend&rsquo;s tweet about
+how the President is a simpering and ineffectual prat who&rsquo;s set back his cause by decades.</p>
+
+<p>I am not entirely satisfied with the metaphor that Twitter &ldquo;flattens&rdquo; these expressions, but it&rsquo;s
+important to me because it&rsquo;s symptomatic of a design that is not clearly enough communicating to
+people what Twitter is good at and why they should use it for that&mdash;and not for other things. Of
+course people are going to use Twitter for things that it&rsquo;s bad at as well as for things that it&rsquo;s
+good at. We do that with email, letters, and video, too. It still bothers me.</p>
+
+<p>One aspect which especially bothers me is that this flattening can lend a false urgency to
+things. One feels a need to reify alarming and attention-grabbing tweets before they disappear by
+replying to or acting on them. This is a dangerous road to walk. We already as humans have problems
+judging urgency: misjudging urgency reliably drives us to do stupid things. Twitter&rsquo;s format
+encourages this because the ephemeral nature of tweets creates a sense of time running out, of
+opportunity in the middle of disappearing. It is no accident that that exact urgency is also used
+as a sales technique: it drives us to make hasty and poorly-considered decisions.</p>
+
+<p>I suspect that this problem would be less annoying if I were less enmeshed in the furry community,
+which has an ongoing issue with people who are already grievously prone to inaccurately judging
+urgency and to thereby creating massive social problems. The urgency problem is a human universal,
+though, so I&rsquo;d probably see the same thing to greater or lesser degree among medievalists or
+knitters.</p>
+
+<h3>What now?</h3>
+
+<p>I&rsquo;m not sure how badly all of these things bother me about Twitter&mdash;but it&rsquo;s definitely enough to
+make me take a break for a while. I&rsquo;m also consciously cultivating other forms of my own
+expression&mdash;like this blog!&mdash;to see whether I&rsquo;m thinking things that are best expressed in ways
+other than Twitter. I&rsquo;m enjoying that so far, and I expect that it&rsquo;ll be a fruitful exercise.</p>
+
+<p>If you decide to stay with Twitter, I wish you the best, and I hope that you either find these
+problems less serious than I do or have better ways of coping with them (if you do, please mention
+it to me). For my part, I&rsquo;ve noticed that in addition to these problems existing, they are problems
+either with the design of Twitter as a service and social mileu, or with how other people use
+Twitter. Neither is within my power to unilaterally change, which makes turning my face away from
+Twitter more appealing since I can change that quite easily.</p>
+
+<p><em>postscript:</em> A correspondant points out that
+<a href="http://penny-arcade.com/comic/2013/02/11">Penny Arcade also has a critique</a> of
+certain styles of Twitter usage.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Escalating]]></title>
+    <link href="http://usefultigress.com/blog/2013/escalating/"/>
+    <updated>2013-03-22T12:32:00-07:00</updated>
+    <id>http://usefultigress.com/blog/2013/escalating</id>
+    <content type="html"><![CDATA[<p>I&rsquo;d like to use the Internet controversy of the week &mdash; particularly,
+<a href="http://www.shakesville.com/2013/03/adria-richards-does-belong-at-tech.html">Melissa McEwan&rsquo;s response</a> to it &mdash; to talk about something that&rsquo;s been on my mind for a while: escalation. I believe that the changes in our communications environment, particularly mass access to broadcast-style media and the possibility of things &ldquo;going viral,&rdquo; have made it very easy to escalate problems, and that people should invest more thought and caution into a decision to escalate, and should have better de-escalation toolkits.</p>
+
+<p>To vastly, vastly oversimplify, <a href="https://amandablumwords.wordpress.com/2013/03/21/3/">the incident that people are talking about</a> went like so: at PyCon, a developer conference, two dudes were cracking dick jokes, a woman sitting near them posted a picture of them to Twitter with a &ldquo;not cool, stop that&rdquo; message, an escalation spiral occurred, and all three of the people involved got fired. There&rsquo;s lots to read about this incident, but I&rsquo;m going to pick on a micro slice of it: the decision to publicly shame people instead of speaking to them &mdash; that is, the decision to escalate.</p>
+
+<p>Escalation is part of our communication/relationship/group-interaction toolkit; I will not say that it is a bad thing. What I will say is that it is a tool that&rsquo;s good for some things, but not for others, and that it is a tool that you should handle with the same caution that you give to, say, a power sander. It should never be a tool of first resort &mdash; but it should never be a tool that is denied to people.</p>
+
+<p>As a working definition of escalation, let&rsquo;s consider &ldquo;expanding the scope of a conflict.&rdquo; One easy example is <em>ad hominem</em> attacks: when the argument expands from being about proposals to also being about the personal characteristics of one or more participants. Another example is the fallacy with the charming name of <em>argumentum ad baculum</em> &mdash; the appeal to force. When someone demands that they prevail in an argument because of force rather than reason, they have escalated that argument. We can consider also the incident in which Rob Schneider <a href="http://en.wikipedia.org/wiki/Deuce_Bigalow:_European_Gigolo#Reception">responded to a negative review</a> of a movie that he starred in by taking out a full-page ad to respond denigrating the critic. When a disagreement may be public or private, and someone chooses to move into the public sphere, they have escalated that disagreement.</p>
+
+<p>The reason that escalation is a useful and problematic tool is that all of these things <em>change people&rsquo;s responses.</em> Expanding the scope of a conflict puts it in a different context, related to the new scope, and that context informs people&rsquo;s responses. This is emphatically not the same as &ldquo;puts people on their best behavior.&rdquo; Focusing on the case of escalating a private disagreement to the public sphere, it should be very clear that people act differently in public and in private. This is where we encounter the effects of changes in our communication environment: it&rsquo;s as easy as it ever was to escalate arguments by insults or by force, but it used to be much more difficult to make a dispute public. Someone fluent with the Internet&rsquo;s communications affordances can make something public very quickly indeed, and with the cooperation of others, it can be made very, very public.</p>
+
+<p>This is dangerous; <strong>escalation is not always a good idea.</strong> Escalation is usually a sign of &ldquo;the terms on which this conflict is being conducted, are unfavorable to me, so I&rsquo;m going to change them.&rdquo; Escalation occurs in a social context. Escalation is very easy now, and will not become less easy with the communications environment we&rsquo;ve chosen for ourselves, so we have to develop a &ldquo;social technology&rdquo; that tells people when it&rsquo;s appropriate to escalate. As the the PyCon incident illustrates, very often <a href="https://amandablumwords.wordpress.com/2013/03/21/3/">escalation results in everyone losing</a>, like a mutual-betrayal scenario in the <a href="http://en.wikipedia.org/wiki/Prisoner%27s_dilemma">Prisoner&rsquo;s Dilemma</a>.</p>
+
+<p>I am not going to attempt to give comprehensive advice about when to escalate: part of why escalation is a tricky technique is that it&rsquo;s quite difficult to decide when to escalate. What I am going to do, is to urge you to think carefully before escalating, and to never escalate just because it&rsquo;s easy to escalate. We are all prone to human failures of thought that are very likely to happen when something goes from public to private, and which things like Twitter give us plenty of room to indulge. Good Guys and Bad Guys will be assigned, regardless of whether the debate at hand admits the existence of clear-cut Good and Bad. People will dig in their heels when they are arguing in front of people whose goodwill they value: they will be less likely to back down. People not previously involved in the argument will <a href="http://www.patheos.com/blogs/slacktivist/2008/10/08/false-witnesses-2/">feel compelled to weigh in and establish that they are on the side of Right and Good and Truth</a>.</p>
+
+<p>One of the things that makes people prone to escalation, is a failure to identify the urgency of a situation. False urgency drives us all to make bad decisions; it is a specific flavor of fear. It can be overcome, but it takes effort, and one&rsquo;s personal life is generally better when it contains as few people as possible who are prone to identifying the non-urgent as urgent. People who feel safe, confident, and at ease, rarely escalate, which is part of why I think that those things should be afforded to everyone. On the flip side, people who feel threatened, insecure, and agitated, are prone to escalation.</p>
+
+<p>One thing that I think is a very clever use of escalation&rsquo;s virtues is the <a href="http://en.wikipedia.org/wiki/Holla_Back">Holla Back</a> inititative. It correctly identifies that a particular argument is unwinnable in its &ldquo;native&rdquo; context (i.e. &ldquo;street harassment is fine&rdquo; vs. &ldquo;don&rsquo;t fucking harass people&rdquo;) and shifts the context. It takes advantage of the difference between what people will do in anonymous crowds, and what they are willing to be held accountable for. It evades difficulties of escalation because there is rarely an existing social bond between harassers and victims in this context. It&rsquo;s a very deft use of escalation: it specifically says &ldquo;here is a situation where escalation is an appropriate response, and here are tools to make it easy and a social framing to make it acceptable.&rdquo; All of the components there are important: escalation isn&rsquo;t always an appropriate response, and independently, it&rsquo;s not always socially acceptable.</p>
+
+<p>If you read the <a href="http://butyoureagirl.com/14015/forking-and-dongle-jokes-dont-belong-at-tech-conferences/">first-person account</a> of Adria Richards, the woman who reported the PyCon incident, it seems like she&rsquo;s pretty clearly basing her response on the Holla Back model. It did not work out well. This illustrates a further difficulty of escalation: it invites escalation in return, and de-escalation is almost always more difficult than escalation. Escalation&rsquo;s expansion of scope requires an expansion of commitment &mdash; even if a participant feels like they have not become more committed, if they are still in the argument, they&rsquo;re committed to a bigger argument. In this case, the public nature of the argument drew in other participants, who escalated (e.g. by firing people) and comments from the peanut gallery (some awful, awful Reddit/Hacker News threads on the matter). It is a good illustration of the dangers of escalation.</p>
+
+<p>Escalation is only a tool. Like a hammer, it is good at some things, bad at others, and in the process of using it for either you may hurt yourself by using it inexpertly. In your own life, I urge you to reject false urgency, to never use escalation as a first resort, and to critically examine any conflict you&rsquo;re involved in for attempts to escalate it without your consent.</p>
+
+<hr />
+
+<p>Edit: I disavow the view that Adria Richards <em>should</em> have acted differently: the whole point of this spiel is that escalation is hard. If I said that or seemed to say that, I was wrong, I wanted to address escalation as a phenomenon, not her in particular. About her case in particular, <a href="http://www.forbes.com/sites/deannazandt/2013/03/22/why-asking-what-adria-richards-could-have-done-differently-is-the-wrong-question/">Deanna Zandt</a> has a great writeup with links to other insightful pieces.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Social Network Ice Floes]]></title>
+    <link href="http://usefultigress.com/blog/2013/social-network-ice-floes/"/>
+    <updated>2013-03-06T10:47:00-08:00</updated>
+    <id>http://usefultigress.com/blog/2013/social-network-ice-floes</id>
+    <content type="html"><![CDATA[<p>Twitter yanked TweetDeck out of Natasha Lockheart&rsquo;s hands, and she&rsquo;s unhappy about it.</p>
+
+<blockquote><p>Where does a person go to be truly social on the internet? This is a question I find
+myself asking all too often, and once I settle in somewhere, I seem to have to find
+somewhere else to go. Today, Twitter announced that they were pulling all non-web-based
+versions of Tweetdeck, and in doing so, they will no longer function after May of this year.</p></blockquote>
+
+<p>I wasn&rsquo;t very fond of TweetDeck, myself: I thought that the multi-network functionality was the best thing it had going for it, and since I despise Facebook and think LinkedIn is dubious, that wasn&rsquo;t exactly a win for me. On top of that, it&rsquo;s been obvious for a while that <a href="http://daltoncaldwell.com/twitter-is-pivoting">Twitter is pivoting</a> &mdash; that they are not interested in being &ldquo;good&rdquo; as Natasha and I define &ldquo;good.&rdquo; First they <a href="http://daringfireball.net/linked/2012/08/16/twitter-drop-dead">told developers where to shove it</a>, then they changed the experience for the top tier of users. As Dustin Curtis points out, &ldquo;people on Facebook tend to friend their friends, <a href="http://dcurt.is/twitters-graph">people on Twitter tend to follow their interests</a>,&rdquo; making it a communications stream that&rsquo;s more appealing to advertisers than most Facebook chatter. Twitter is pretty clearly not interested in the opinions of users who want a Twitter that they <em>interact</em> with. If you can think like a pointy-haired boss for a minute, it follows pretty clearly: people who want to interact with the service are pushy, demanding, and far less profitable than people who just <em>consume</em> the service. As a result, Twitter is going to continue turning into television (“<a href="http://brooksreview.net/2012/08/twitter-bullshit/">this is the moment in Twitter’s life where they kicked Steve Jobs out of the company and told Sculley to run it.</a>”)</p>
+
+<p>I consider it firmly established that Twitter is not interested in being what my tribe wants it to be. Given that, the most likely scenario for the future is that Twitter will suck &mdash; for my tribe, that is; it&rsquo;s entirely possible that at the same time they will make a ton of money and stabilize with hundreds of millions of users. This is sad, but not unpredictable. For-profit corporations have a rotten track record with this sort of thing, my tribes are picky and hard to please, and mass-scale community-building is gratuitously hard.</p>
+
+<p>Let&rsquo;s not pretend that LiveJournal was a lost golden age, either. LJ had plenty of problems, and the other major candidate for the Good Old Days, Usenet, was an enormous headache in terms of spam, moderation, technical underpinnings, and usability.</p>
+
+<p>What grabbed me about Natasha&rsquo;s post, though, was this:</p>
+
+<blockquote><p>you can always find me on my website, it will never, ever go away. I know having
+a strong presence on the open web isn&rsquo;t what everyone does anymore (something that
+always disappoints me, and not just because I build websites for a living), but I will
+never stop having a strong web presence. And no matter what other services I use, my
+website will always be my home base, the place where I post all my content first, and
+where I tell you where else to find me.</p></blockquote>
+
+<p>I want to amplify that. Here&rsquo;s the biggest reason you should be wary of Twitter, Facebook, Google+, and everything else in that space: they <em>cannot</em> succeed at what they set out to do, because social life is not just one thing. Natasha asked <em>&ldquo;where does a person go to be truly social on the Internet?&rdquo;</em> and there is no single answer to that. Every answer has a limited reach and an expiration date. To echo Marco Arment, <a href="http://www.marco.org/2011/07/11/own-your-identity">if you want a durable online identity, you have to own it</a>.</p>
+
+<blockquote><p>You might think your @gmail.com address will be fine indefinitely, but if I
+used a webmail address from the best webmail provider at the time I broke away
+from my university address and formed my own identity, it would have ended
+in @hotmail.com. And that wasn’t very long ago.</p></blockquote>
+
+<p>Even if entities like Facebook, Twitter, and Google were inclined to fight the corporate Will to Profit, the task of providing a forum for the best of social activity, for entertaining and edifying public interaction, I wouldn&rsquo;t bet on them. Culture, by nature, is always changing, and people&rsquo;s desires change with time. You would do well to think of your avatar on Twitter as standing on a slowly-melting ice floe: it is not a safe long-term place, no matter how solid it seems right now.</p>
+
+<p>The response that Natasha, Marco, and I are all demonstrating in various ways, is &ldquo;you have to have some presence that is <em>yours,</em> that you own.&rdquo; This is not <em>easy</em> easy, but it&rsquo;s <em>easier</em> than it used to be. This is not to say that owning your own domain and putting something there is something other than an ice floe &mdash; what it is, is an ice floe that is larger, melts slower, and gives you ways to hop to another when this one goes under, instead of watching everything that you built vanish.</p>
+
+<p>Taking responsibility for your identity is difficult and complicated, because <em>identity</em> is difficult and complicated. You can get some great benefits by entrusting part of the work of identity to Twitter, Facebook, and the rest &mdash; but you can&rsquo;t trust them entirely, and you can&rsquo;t trust them with the whole work. The ice floe is always melting. You need to know that, even if it looks big and durable right now. One day it will be gone.</p>
+]]></content>
+  </entry>
+  
+</feed>
