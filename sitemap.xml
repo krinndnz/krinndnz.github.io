@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://usefultigress.com/blog/2016/nanowrimo-2016-01-the-village-it-takes/</loc>
+<lastmod>2016-11-04T16:21:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://usefultigress.com/blog/2016/monsters-marginalization-and-identity/</loc>
 <lastmod>2016-09-19T18:29:00-07:00</lastmod>
 </url>
@@ -438,15 +442,12 @@
 <loc>http://usefultigress.com/blog/categories/monsters/</loc>
 </url>
 <url>
-<loc>http://usefultigress.com/posts/2/</loc>
+<loc>http://usefultigress.com/blog/categories/nanowrimo/</loc>
 </url>
 <url>
-<loc>http://usefultigress.com/posts/3/</loc>
+<loc>http://usefultigress.com/blog/categories/napowrimo/</loc>
 </url>
 <url>
-<loc>http://usefultigress.com/posts/4/</loc>
-</url>
-<url>
-<loc>http://usefultigress.com/posts/5/</loc>
+<loc>http://usefultigress.com/blog/categories/writing/</loc>
 </url>
 </urlset>
